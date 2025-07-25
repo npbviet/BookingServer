@@ -16,7 +16,7 @@ const adminGetDataRoutes = require("./routes/admin/getData.routes");
 const adminSetDataRoutes = require("./routes/admin/setData.routes");
 
 // 📌 Kết nối MongoDB
-const MONGODB_UR =
+const MONGODB_URL =
   "mongodb+srv://npbviet:Nbvnbv123@cluster0.2pfarzs.mongodb.net/booking";
 
 // 📌 Tạo session store dùng MongoDB
